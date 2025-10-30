@@ -50,6 +50,10 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 
 ---
 
+## License
+This project is licensed under the [MIT License]
+You are free to use, modify, and distribute this software with attribution.
+
 ## 🧰 Installation & Setup
 
 Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
