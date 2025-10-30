@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# 🌟 Lexi AI
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Lexi AI is a mobile app built with **Expo + React Native** to help individuals with **dyslexia** and **ADHD** read more comfortably.  
+It allows users to **scan or upload text from images**, and then uses **AI (ChatGPT)** to rewrite that text in a simpler, easier-to-read format.
 
-## Get started
+---
 
-1. Install dependencies
+## 📱 Features
 
-   ```bash
-   npm install
-   ```
+- 📸 **Scan or Upload Text:** Extract text from any image using the OCR.Space API  
+- 🧠 **AI Simplification:** Automatically rewrite the text using OpenAI’s GPT API  
+- 💾 **History Tracking:** Save and revisit previous simplifications with AsyncStorage  
+- 🔊 **Text-to-Speech:** Listen to the simplified content with Expo Speech  
+- 🎨 **Modern UI:** Clean, accessible design with the Lexend font for better readability  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🧩 Tech Stack
 
-In the output, you'll find options to open the app in a
+- **Framework:** Expo (React Native + TypeScript)  
+- **APIs:**  
+  - OCR.Space API (text extraction)  
+  - OpenAI GPT API (text simplification)  
+- **Storage:** AsyncStorage for local history  
+- **Speech:** Expo Speech for text-to-voice conversion  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🧠 How It Works
 
-## Get a fresh project
+1. The user uploads or captures an image.  
+2. The app sends it to **OCR.Space**, which extracts the text.  
+3. The extracted text is sent to **OpenAI**, which simplifies it for dyslexic and ADHD readers.  
+4. The simplified text appears on screen, and users can **listen** to it or **save** it.  
 
-When you're ready, run:
+---
+
+## 🧰 Installation & Setup
+
+Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
 
 ```bash
-npm run reset-project
-```
+# Clone this repository
+git clone https://github.com/muhaalal/LexiAI.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# Navigate to the project folder
+cd LexiAI
 
-## Learn more
+# Install dependencies
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Start the development server
+npx expo start
