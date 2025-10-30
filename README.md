@@ -15,14 +15,29 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 
 ---
 
-## 🧩 Tech Stack
+🧩 Tech Stack
 
-- **Framework:** Expo (React Native + TypeScript)  
-- **APIs:**  
-  - OCR.Space API (text extraction)  
-  - OpenAI GPT API (text simplification)  
-- **Storage:** AsyncStorage for local history  
-- **Speech:** Expo Speech for text-to-voice conversion  
+Frontend
+	•	React Native – Core UI framework for building cross-platform mobile apps
+	•	TypeScript – Javascript superset that provides better debugging.
+	•	Expo Framework – Simplifies setup and provides various tools (Camera, Speech, Navigation, etc.)
+	•	React Native Markdown Display – Renders AI text in structured content
+	•	@expo-google-fonts/Lexend – Dyslexia-friendly font family used across the app
+	•	@expo/vector-icons (Ionicons) – For icons and smooth UI visuals
+
+Backend / APIs
+	•	OCR.Space API – Extracts printed text from images using OCR
+	•	OpenAI GPT-4 API – Simplifies extracted text for ADHD and dyslexic readers
+	•	Firebase Authentication – (Optional) Secure user login and account management
+
+Storage & Data
+	•	AsyncStorage – Local storage for saving and retrieving simplification history
+	•	(Future plan) Firebase Firestore – Cloud sync for multi-device history
+
+Development & Tooling
+	•	Node.js / npm – Package management and dependency control
+	•	Git & GitHub – Version control and open-source collaboration
+	•	Visual Studio Code (VS Code) – Main editor and IDE
 
 ---
 
