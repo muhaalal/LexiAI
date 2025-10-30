@@ -21,7 +21,7 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 - **React Native** – Core UI framework for building cross-platform mobile apps
 - **TypeScript** – Javascript superset that provides better debugging.
 - **Expo Framework** – Simplifies setup and provides various tools (Camera, Speech, Navigation, etc.)
-- **React Native Markdown Display** – Renders AI text in structured content
+- **React Native Markdown Display** – Renders AI text in a structured format
 - **@expo-google-fonts/Lexend** – Dyslexia-friendly font family used across the app
 - **@expo/vector-icons (Ionicons)** – For icons and smooth UI visuals
 
