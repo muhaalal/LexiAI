@@ -60,7 +60,7 @@ Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
 
 ## Video Demonstration
 
-https://vimeo.com/1131920715?share=copy&fl=sv&fe=ci
+[![Demo on Vimeo](https://i.vimeocdn.com/video/123456789_640.jpg)](https://vimeo.com/1131920715)
 
 ```bash
 # Clone this repository
