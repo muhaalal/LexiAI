@@ -58,7 +58,6 @@ You are free to use, modify, and distribute this software with attribution.
 
 Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
 
-## Video Demonstration
 
 ## 🎬 Video Demonstration
 
