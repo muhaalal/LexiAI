@@ -46,7 +46,7 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 1. The user uploads or captures an image.  
 2. The app sends it to **OCR.Space**, which extracts the text.  
 3. The extracted text is sent to **OpenAI**, which simplifies it for dyslexic and ADHD readers.  
-4. The simplified text appears on screen, and users can **listen** to it or **save** it.  
+4. The app renders the simplified text using scientifically backed fonts and other cruical design features which improves readibility and comprehension.
 
 ---
 
