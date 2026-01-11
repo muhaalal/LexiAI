@@ -7,15 +7,14 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 
 ## 📱 Features
 
-- 📸 **Scan or Upload Text:** Extract text from any image using the OCR.Space API  
-- 🧠 **AI Simplification:** Automatically rewrite the text using OpenAI’s GPT API  
-- 💾 **History Tracking:** Save and revisit previous simplifications with AsyncStorage  
-- 🔊 **Text-to-Speech:** Listen to the simplified content with Expo Speech  
-- 🎨 **Modern UI:** Clean, accessible design with the Lexend font for better readability  
+- **Scan or Upload Text:** Extract text from any image using the OCR.Space API  
+- **AI Simplification:** Automatically rewrite the text using OpenAI’s GPT API  
+- **History Tracking:** Save and revisit previous simplifications with AsyncStorage  
+- **Text-to-Speech:** Listen to the simplified content with Expo Speech  
+- **Modern UI:** Clean, accessible design with the Lexend font for better readability  
 
 ---
 
-## 🧩 Tech Stack
 
 ### Frontend
 - **React Native** – Core UI framework for building cross-platform mobile apps
@@ -41,7 +40,7 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user uploads or captures an image.  
 2. The app sends it to **OCR.Space**, which extracts the text.  
@@ -54,7 +53,7 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 This project is licensed under the [MIT License]
 You are free to use, modify, and distribute this software with attribution.
 
-## 🧰 Installation & Setup
+## Installation & Setup
 
 Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
 
