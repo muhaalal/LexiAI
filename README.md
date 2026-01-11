@@ -5,7 +5,7 @@ It allows users to **scan or upload text from images**, and then uses **AI (Chat
 
 ---
 
-## 📱 Features
+## Features
 
 - **Scan or Upload Text:** Extract text from any image using the OCR.Space API  
 - **AI Simplification:** Automatically rewrite the text using OpenAI’s GPT API  
