@@ -1,4 +1,4 @@
-# 🌟 Lexi AI
+# Lexi AI
 
 Lexi AI is a mobile app built with **Expo + React Native** to help individuals with **dyslexia** and **ADHD** read more comfortably.  
 It allows users to **scan or upload text from images**, and then uses **AI (ChatGPT)** to rewrite that text in a simpler, easier-to-read format.
