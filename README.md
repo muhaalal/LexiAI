@@ -1,7 +1,7 @@
 # Lexi AI  
 Application designed to support neurodivergent learners through AI-based text simplification and inclusive design.
 
-##
+## Abstract
 Lexi AI is a research-driven mobile application designed to explore how AI-based text simplification and accessible design choices affect reading comprehension, cognitive load, and user comfort. The system integrates optical character recognition (OCR), large language models, and dyslexia-friendly user interface principles to transform complex text into more readable formats.
 ---
 
