@@ -6,7 +6,7 @@ Lexi AI is a research-driven mobile application designed to explore how AI-based
 ---
 
 ## Research Motivation
-Students with dyslexia, ADHD, and other learning differences often struggle with dense, visually complex text. While AI-based rewriting tools exist, there is limited empirical evaluation of how text simplification combined with visual design features (font, layout, color) impacts reading performance.
+Students with dyslexia, ADHD, and other learning differences often struggle with dense, visually complex text. While AI-based rewriting tools exist, there is limited evaluation of how text simplification combined with visual design features (font, layout, color) impacts reading performance.
 
 Lexi AI was developed to:
 - Investigate the role of AI-assisted text simplification in reading accessibility
