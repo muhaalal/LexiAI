@@ -28,9 +28,6 @@ Lexi AI follows a modular processing pipeline:
    - Simplified text rendered using the Lexend font
    - Structured formatting (paragraphs, bullet points, spacing)
    - Optional text-to-speech output
-
-This modular design allows individual components (OCR, LLM prompting, UI design) to be modified or evaluated independently.
-
 ---
 
 ## Features
